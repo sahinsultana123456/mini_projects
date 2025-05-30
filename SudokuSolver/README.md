@@ -15,3 +15,7 @@ A simple GUI-based Sudoku solver built using Python and Tkinter.
 
 ```bash
 python sudoku_solver.py
+
+## Screenshot
+
+![SudokuSolver GUI](sudoku_solver.png)
