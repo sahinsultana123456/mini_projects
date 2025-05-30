@@ -18,4 +18,4 @@ python sudoku_solver.py
 
 ## Screenshot
 
-![SudokuSolver GUI](sudoku_solver.jpeg)
+![SudokuSolver GUI](sudoku_screenshot.jpeg)
