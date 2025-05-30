@@ -11,11 +11,13 @@ A simple GUI-based Sudoku solver built using Python and Tkinter.
 - Python 3.x
 - Tkinter (comes with standard Python installation)
 
+
+## Screenshot
+![SudokuSolver](sudoku_screenshot.jpeg)
+
 ## How to Run
 
 ```bash
 python sudoku_solver.py
 
-## Screenshot
 
-![SudokuSolver GUI](sudoku_screenshot.jpeg)
